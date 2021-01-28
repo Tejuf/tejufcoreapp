@@ -1,0 +1,2 @@
+# tejufcoreapp
+Tejuf Core App
